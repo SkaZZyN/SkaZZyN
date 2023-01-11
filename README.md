@@ -1,5 +1,5 @@
 - 👋 Olá, Meu nome é Neto Santos
-- 👀 Atualmente estudando Back-end (Java) 
+- 👀 Atualmente estudando Back-end (JavaScript, Node.Js, TypeScript) 
 - 🌱 Graduando em Análise e Desenvolvimento de Sistemas
 - 📫 Meu LinkedIn: https://www.linkedin.com/in/neto-santos-9771aa190/
 
